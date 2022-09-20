@@ -1,6 +1,6 @@
 import * as dotEnv from "dotenv";
 dotEnv.config({
-  path: "./src/.env/.env",
+  path: "./src/env/.env",
 });
 import cors from "cors";
 import express from "express";
