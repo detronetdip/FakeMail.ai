@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>A dummy clone of Warmer.ai</b></h4>
+  <h4 align="center"><b>A dummy clone of <a href="https://warmer.ai/">warmer.ai</a></b></h4>
 </p>
 
 <p align="center"> 
